@@ -16,8 +16,14 @@ Game over alert when the ball hits the bottom.
 ## Getting Started
 To run the game locally on your machine, follow these steps:
 
-Clone the repository: ````git clone https://github.com/RpbCry/bricks-breaker-game.git````
-Navigate to the project directory: ```cd bricks-breaker-game```
+Clone the repository: 
+````
+git clone https://github.com/RpbCry/bricks-breaker-game.git
+````
+Navigate to the project directory: 
+```
+cd bricks-breaker-game
+```
 Open `index.html` in your preferred web browser.
 
 ## Contributing
